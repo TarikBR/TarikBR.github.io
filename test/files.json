@@ -1,0 +1,22 @@
+[
+  {
+    "output":"/mods/pixelmon.jar",
+    "link":"https://dl.reforged.gg/3JQMqcQ",
+    "overwrite":false
+  },
+  {
+    "output":"/resourcepacks/texture.zip",
+    "link":"https://drive.google.com/u/0/uc?id=1De98ilAhrOiyUHHi0I1wA8IePgWawGlm&export=download&confirm=t&uuid=d0e17375-f055-4411-8f90-a984657ac1db&at=AHV7M3eRGiAyuIC4UgtFlAnb9y_b:1670519073572",
+    "overwrite":false
+  },
+  {
+    "output":"/resourcepacks/sprites.zip",
+    "link":"https://drive.google.com/u/0/uc?id=1vcmIZaaSoAQhMEY4vrxI6ckqcAgqbiFk&export=downloa",
+    "overwrite":false
+  },
+  {
+    "output":"/servers.dat",
+    "link":"https://tarikbr.github.io/test/servers.dat",
+    "overwrite":true
+  }
+]
