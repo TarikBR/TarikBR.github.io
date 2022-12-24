@@ -5,6 +5,36 @@
     "overwrite":false
   },
   {
+    "output":"/mods/mainmenuscale.jar",
+    "link":"https://www.curseforge.com/minecraft/mc-mods/main-menu-scale/download/2683258/file",
+    "overwrite":false
+  },
+  {
+    "output":"/mods/reborncore.jar",
+    "link":"https://www.curseforge.com/minecraft/mc-mods/reborncore/download/3330308/file",
+    "overwrite":false
+  },
+  {
+    "output":"/mods/fancymenu.jar",
+    "link":"https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/4215756/file",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/PixelmonBrasil.txt",
+    "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/PixelmonBrasil.txt",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/config.txt",
+    "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/config.txt",
+    "overwrite":false
+  },
+  {
+    "output":"/mods/fancymenu.jar",
+    "link":"https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/4215756/file",
+    "overwrite":false
+  },
+  {
     "output":"/resourcepacks/texture.zip",
     "link":"https://drive.google.com/uc?id=1H-8P8fBECQBcbuk5i-Ayr4oJegFhuUQm&export=download&confirm",
     "overwrite":false
