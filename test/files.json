@@ -25,6 +25,11 @@
     "overwrite":false
   },
   {
+    "output":"/mods/konkrete.jar",
+    "link":"https://www.curseforge.com/minecraft/mc-mods/konkrete/download/4136422/file",
+    "overwrite":false
+  },
+  {
     "output":"/config/fancymenu/customization/PixelmonBrasil.txt",
     "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/PixelmonBrasil.txt",
     "overwrite":true
@@ -33,11 +38,6 @@
     "output":"/config/fancymenu/config.txt",
     "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/config.txt",
     "overwrite":true
-  },
-  {
-    "output":"/mods/fancymenu.jar",
-    "link":"https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/4215756/file",
-    "overwrite":false
   },
   {
     "output":"/resourcepacks/texture.zip",
