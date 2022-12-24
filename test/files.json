@@ -5,6 +5,11 @@
     "overwrite":false
   },
   {
+    "output":"/mods/mixin.jar",
+    "link":"https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap/download/3437402/file",
+    "overwrite":false
+  },
+  {
     "output":"/mods/mainmenuscale.jar",
     "link":"https://www.curseforge.com/minecraft/mc-mods/main-menu-scale/download/2683258/file",
     "overwrite":false
