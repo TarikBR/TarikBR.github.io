@@ -30,16 +30,6 @@
     "overwrite":false
   },
   {
-    "output":"/resourcepacks/texture.zip",
-    "link":"https://drive.google.com/uc?id=1uvHpA3LVNGZNrzSojhd0A-azhbDmoRUP&export=download&confirm",
-    "overwrite":false
-  },
-  {
-    "output":"/resourcepacks/sprites.zip",
-    "link":"https://drive.google.com/uc?id=1N69zgaieKcDPrZd_xMpKYkLfwVg0mnKe&export=download&confirm",
-    "overwrite":false
-  },
-  {
     "output":"/servers.dat",
     "link":"https://tarikbr.github.io/test/servers.dat",
     "overwrite":true
