@@ -30,16 +30,6 @@
     "overwrite":false
   },
   {
-    "output":"/config/fancymenu/customization/PixelmonBrasil.txt",
-    "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/PixelmonBrasil.txt",
-    "overwrite":true
-  },
-  {
-    "output":"/config/fancymenu/config.txt",
-    "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/config.txt",
-    "overwrite":true
-  },
-  {
     "output":"/resourcepacks/texture.zip",
     "link":"https://drive.google.com/uc?id=1H-8P8fBECQBcbuk5i-Ayr4oJegFhuUQm&export=download&confirm",
     "overwrite":false
@@ -52,6 +42,16 @@
   {
     "output":"/servers.dat",
     "link":"https://tarikbr.github.io/test/servers.dat",
+    "overwrite":true
+  },
+  {
+    "output":"/config/fancymenu/config.txt",
+    "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/config.txt",
+    "overwrite":true
+  },
+  {
+    "output":"/config/fancymenu/customization/PixelmonBrasil.txt",
+    "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/PixelmonBrasil.txt",
     "overwrite":true
   }
 ]
