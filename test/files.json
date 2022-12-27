@@ -35,11 +35,6 @@
     "overwrite":false
   },
   {
-    "output":"/resourcepacks/texture.zip",
-    "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/files/resourcepacks/texturepack-pxbr.zip",
-    "overwrite":false
-  },
-  {
     "output":"/servers.dat",
     "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/files/servers.dat",
     "overwrite":true
