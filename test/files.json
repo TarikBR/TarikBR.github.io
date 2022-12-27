@@ -5,6 +5,11 @@
     "overwrite":false
   },
   {
+    "output":"/mods/jei.jar",
+    "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/forgemods/optionalon/JEI.jar",
+    "overwrite":false
+  },
+  {
     "output":"/mods/mixin.jar",
     "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/forgemods/optionalon/_MixinBootstrap-1.1.0.jar",
     "overwrite":false
