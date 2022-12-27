@@ -6,32 +6,37 @@
   },
   {
     "output":"/mods/mixin.jar",
-    "link":"https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap/download/3437402/file",
+    "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/forgemods/optionalon/_MixinBootstrap-1.1.0.jar",
     "overwrite":false
   },
   {
     "output":"/mods/mainmenuscale.jar",
-    "link":"https://www.curseforge.com/minecraft/mc-mods/main-menu-scale/download/2683258/file",
+    "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/forgemods/optionalon/MainMenuScale-1.3.2.jar",
     "overwrite":false
   },
   {
     "output":"/mods/reborncore.jar",
-    "link":"https://www.curseforge.com/minecraft/mc-mods/reborncore/download/3330308/file",
+    "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/forgemods/required/RebornCore.jar",
     "overwrite":false
   },
   {
     "output":"/mods/fancymenu.jar",
-    "link":"https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/3426783/file",
+    "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/forgemods/optionalon/fancymenu_2.2.2-1_MC_1.12-1.12.2.jar",
     "overwrite":false
   },
   {
     "output":"/mods/konkrete.jar",
-    "link":"https://www.curseforge.com/minecraft/mc-mods/konkrete/download/4136422/file",
+    "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/forgemods/optionalon/konkrete_1.1.7_MC_1.12-1.12.2.jar",
+    "overwrite":false
+  },
+  {
+    "output":"/resourcepacks/texture.zip",
+    "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/files/resourcepacks/texturepack-pxbr.zip",
     "overwrite":false
   },
   {
     "output":"/servers.dat",
-    "link":"https://tarikbr.github.io/test/servers.dat",
+    "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/files/servers.dat",
     "overwrite":true
   },
   {
@@ -42,6 +47,12 @@
   {
     "output":"/config/fancymenu/customization/PixelmonBrasil.txt",
     "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/PixelmonBrasil.txt",
+    "overwrite":true
+  }
+  ,
+  {
+    "output":"/optionsof.txt",
+    "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/optionsof.txt",
     "overwrite":true
   }
 ]
