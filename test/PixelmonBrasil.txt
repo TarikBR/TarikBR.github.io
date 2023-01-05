@@ -128,7 +128,7 @@ customization {
   action = addbutton
   y = -193
   backgroundnormal = config/fancymenu/images/serverdefault.png
-  value = jogar.pixelmonbrasil.com.br
+  value = jogar.pixelmonbrasil.com
   height = 161
 }
 
@@ -399,4 +399,3 @@ customization {
   alignment = centered
   value = Configurações
 }
-
