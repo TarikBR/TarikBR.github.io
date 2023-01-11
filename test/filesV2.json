@@ -5,6 +5,11 @@
     "overwrite":false
   },
   {
+    "output":"/pxbrmods/com/pixelmonmod/pixelextras/2.5.17/pixelextras-2.5.17.jar",
+    "link":"https://github.com/TarikBR/minecraft-mobile-improvements/releases/latest/download/PixelExtras.jar",
+    "overwrite":false
+  },
+  {
     "output":"/pxbrmods/mezz/jei/jei/4.15.0.275/jei-4.15.0.275.jar",
     "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/forgemods/optionalon/JEI.jar",
     "overwrite":false
@@ -50,18 +55,13 @@
     "overwrite": false
   },
   {
-    "output":"/pxbrmods/tarikbr/pixelmoneb/PixelmonEB/1.0/PixelmonEB-1.0.jar",
-    "link":"https://github.com/TarikBR/minecraft-mobile-improvements/releases/latest/download/PixelmonEB.jar",
+    "output":"/pxbrmods/tarikbr/BetterKeys/BetterKeys/1.0/BetterKeys-1.0.jar",
+    "link":"https://github.com/TarikBR/minecraft-mobile-improvements/releases/latest/download/BetterKeys.jar",
     "overwrite": false
   },
   {
     "output":"/pxbrmods/tarikbr/singleplayerchunkfixer/SinglePlayerChunkFixer/1.0/SinglePlayerChunkFixer-1.0.jar",
     "link":"https://github.com/TarikBR/minecraft-mobile-improvements/releases/latest/download/SinglePlayerChunkFixer.jar",
-    "overwrite": false
-  },
-  {
-    "output":"/mods/ForcePokemon.jar",
-    "link":"https://github.com/TarikBR/minecraft-mobile-improvements/releases/latest/download/ForcePokemon.jar",
     "overwrite": false
   },
   {
