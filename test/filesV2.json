@@ -60,6 +60,11 @@
     "overwrite": false
   },
   {
+    "output":"/mods/ForcePokemon.jar",
+    "link":"https://github.com/TarikBR/minecraft-mobile-improvements/releases/latest/download/ForcePokemon.jar",
+    "overwrite": false
+  },
+  {
     "output":"/servers.dat",
     "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/files/servers.dat",
     "overwrite":true
