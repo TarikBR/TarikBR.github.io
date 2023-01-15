@@ -65,6 +65,11 @@
     "overwrite": false
   },
   {
+    "output":"/pxbrmods/tarikbr/betterperformance/BetterPerformance/1.0/BetterPerformance-1.0.jar",
+    "link":"https://github.com/TarikBR/minecraft-mobile-improvements/releases/latest/download/BetterPerformance.jar",
+    "overwrite": false
+  },
+  {
     "output":"/servers.dat",
     "link":"https://launcher.pixelmonbrasil.com.br/servers/PixelmonBrasil-1.12.2/files/servers.dat",
     "overwrite":true
