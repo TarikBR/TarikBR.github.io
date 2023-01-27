@@ -372,7 +372,7 @@ customization {
   backgroundhovered = config/fancymenu/images/discord.png
   label = 
   backgroundnormal = config/fancymenu/images/discord.png
-  value = https://discord.com/invite/nmQ9CBm4qJ
+  value = https://discord.gg/pxbr
   height = 13
 }
 
