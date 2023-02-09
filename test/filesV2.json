@@ -83,10 +83,5 @@
     "output":"/config/fancymenu/customization/PixelmonBrasil.txt",
     "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/PixelmonBrasil.txt",
     "overwrite":true
-  },
-  {
-    "output":"/shaderpacks/PojavShaders.zip",
-    "link":"https://github.com/Open4Es/Open4Es-Shader-Android/releases/download/1.1.0-Beta-6/Open4Es-Shader-Android-1.1-Beta6.zip",
-    "overwrite":false
   }
 ]
