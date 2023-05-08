@@ -130,7 +130,7 @@
     "overwrite":false
   },
   {
-    "output":"/config/fancymenuimages/botao5.png",
+    "output":"/config/fancymenu/images/botao5.png",
     "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao5.png",
     "overwrite":false
   },
