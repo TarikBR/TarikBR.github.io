@@ -101,7 +101,62 @@
   },
   {
     "output":"/config/fancymenu/customization/PixelmonBrasil.txt",
-    "link":"https://raw.githubusercontent.com/TarikBR/tarikbr.github.io/main/test/PixelmonBrasil.txt",
-    "overwrite":true
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/customization/Pixelmon%20Brasil.txt",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/images/background.png",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/background.png",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/images/botao1.png",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao1.png",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/images/botao2.png",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao2.png",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/images/botao3.png",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao3.png",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/images/botao4.png",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao4.png",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/images/botao5.png",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao5.png",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/images/botao1pressionado.png",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao1pressionado.png",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/images/botao2pressionado.png",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao2pressionado.png",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/images/botao3pressionado.png",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao3pressionado.png",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/images/botao4pressionado.png",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao4pressionado.png",
+    "overwrite":false
+  },
+  {
+    "output":"/config/fancymenu/customization/images/botao5secundario.png",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao5secundario.png",
+    "overwrite":false
   }
 ]
