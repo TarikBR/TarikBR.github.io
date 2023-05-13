@@ -158,5 +158,10 @@
     "output":"/config/fancymenu/images/botao5secundario.png",
     "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao5secundario.png",
     "overwrite":false
+  },
+  {
+    "output":"/pxbrmods/br/com/pixelmonbrasil/MapsOptimization/1.0/MapsOptimization-1.0.jar",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/optional/MapsOptimization-1.0.jar"
+    "overwrite":false
   }
 ]
