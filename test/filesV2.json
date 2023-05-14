@@ -166,7 +166,7 @@
   },
   {
     "output":"/config/fancymenu/customizablemenus.txt",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/pixelmon-brasil/files/config/fancymenu/customizablemenus.txt",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/customizablemenus.txt",
     "overwrite":false
   }
 ]
