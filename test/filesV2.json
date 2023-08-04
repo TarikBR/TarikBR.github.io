@@ -171,12 +171,12 @@
   },
   {
     "output":"/mods/modmixinloader.jar",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/required/ModMixinLoader-1.12.2-1.0.3.jar",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/required/ModMixinLoader-1.12.2-1.0.4.jar",
     "overwrite":false
   },
   {
     "output":"/mods/pxbr.jar",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/required/PixelmonBrasil-Client-1.0.jar",
+    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/required/PixelmonBrasil-Client-1.0.1.jar",
     "overwrite":false
   }
 ]
