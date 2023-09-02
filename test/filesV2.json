@@ -102,7 +102,7 @@
   {
     "output":"/config/fancymenu/customization/PixelmonBrasil.txt",
     "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/customization/Pixelmon%20Brasil.txt",
-    "overwrite":false
+    "overwrite":true
   },
   {
     "output":"/config/fancymenu/images/background.png",
