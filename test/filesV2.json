@@ -176,7 +176,7 @@
   },
   {
     "output":"/mods/pxbr.jar",
-    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/required/PixelmonBrasil-Client-1.0.1.jar",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/required/PixelmonBrasil-Client-1.0.2.jar",
     "overwrite":false
   }
 ]
