@@ -1,37 +1,37 @@
 [
   {
     "output":"/pxbrmods/com/pixelmonmod/pixelmon/8.3.8/pixelmon-8.3.8.jar",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/required/Pixelmon-1.12.2-8.3.8-universal.jar",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/required/Pixelmon-1.12.2-8.3.8-universal.jar",
     "overwrite":false
   },
   {
     "output":"/pxbrmods/mezz/jei/jei/4.15.0.275/jei-4.15.0.275.jar",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/optional/JEI.jar",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/optional/JEI.jar",
     "overwrite":false
   },
   {
     "output":"/pxbrmods/org/spongepowered/asm/launch/_mixinbootstrap/1.1.0/_mixinbootstrap-1.1.0.jar",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/optional/_MixinBootstrap-1.1.0.jar",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/optional/_MixinBootstrap-1.1.0.jar",
     "overwrite":false
   },
   {
     "output":"/pxbrmods/me/modmuss50/mms/mainmenuscale/1.3.2/mainmenuscale-1.3.2.jar",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/optional/MainMenuScale-1.3.2.jar",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/optional/MainMenuScale-1.3.2.jar",
     "overwrite":false
   },
   {
     "output":"/pxbrmods/reborncore/reborncore/3.19.5/reborncore-3.19.5.jar",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/optional/RebornCore.jar",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/optional/RebornCore.jar",
     "overwrite":false
   },
   {
     "output":"/pxbrmods/de/keksuccino/fancymenu/1_MC_1.12-1.12.2/fancymenu-1_MC_1.12-1.12.2.jar",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/optional/fancymenu_2.2.2-1_MC_1.12-1.12.2.jar",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/optional/fancymenu_2.2.2-1_MC_1.12-1.12.2.jar",
     "overwrite":false
   },
   {
     "output":"/pxbrmods/de/keksuccino/konkrete/1.12.2/konkrete-1.12.2.jar",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/optional/konkrete_1.1.7_MC_1.12-1.12.2.jar",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/optional/konkrete_1.1.7_MC_1.12-1.12.2.jar",
     "overwrite":false
   },
   {
@@ -41,12 +41,12 @@
   },
   {
     "output": "/pxbrmods/journeymap/journeymap/1.12.2-5.7.1/journeymap-1.12.2-5.7.1.jar",
-    "link": "https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/optional/JourneyMap.jar",
+    "link": "https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/optional/JourneyMap.jar",
     "overwrite": false
   },
   {
     "output": "/pxbrmods/com/dazo66/shulkerboxshower/shulkerboxviewer/1.5/shulkerboxviewer-1.5.jar",
-    "link": "https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/optional/Shulker-Box-Viewer-Mod-1.12.2.jar",
+    "link": "https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/optional/Shulker-Box-Viewer-Mod-1.12.2.jar",
     "overwrite": false
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "output":"/servers.dat",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/servers.dat",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/servers.dat",
     "overwrite":true
   },
   {
@@ -101,72 +101,82 @@
   },
   {
     "output":"/config/fancymenu/customization/PixelmonBrasil.txt",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/customization/Pixelmon%20Brasil.txt",
-    "overwrite":false
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/customization/Pixelmon%20Brasil.txt",
+    "overwrite":true
   },
   {
     "output":"/config/fancymenu/images/background.png",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/background.png",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/images/background.png",
     "overwrite":false
   },
   {
     "output":"/config/fancymenu/images/botao1.png",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao1.png",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/images/botao1.png",
     "overwrite":false
   },
   {
     "output":"/config/fancymenu/images/botao2.png",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao2.png",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/images/botao2.png",
     "overwrite":false
   },
   {
     "output":"/config/fancymenu/images/botao3.png",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao3.png",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/images/botao3.png",
     "overwrite":false
   },
   {
     "output":"/config/fancymenu/images/botao4.png",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao4.png",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/images/botao4.png",
     "overwrite":false
   },
   {
     "output":"/config/fancymenu/images/botao5.png",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao5.png",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/images/botao5.png",
     "overwrite":false
   },
   {
     "output":"/config/fancymenu/images/botao1pressionado.png",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao1pressionado.png",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/images/botao1pressionado.png",
     "overwrite":false
   },
   {
     "output":"/config/fancymenu/images/botao2pressionado.png",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao2pressionado.png",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/images/botao2pressionado.png",
     "overwrite":false
   },
   {
     "output":"/config/fancymenu/images/botao3pressionado.png",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao3pressionado.png",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/images/botao3pressionado.png",
     "overwrite":false
   },
   {
     "output":"/config/fancymenu/images/botao4pressionado.png",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao4pressionado.png",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/images/botao4pressionado.png",
     "overwrite":false
   },
   {
     "output":"/config/fancymenu/images/botao5secundario.png",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/images/botao5secundario.png",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/images/botao5secundario.png",
     "overwrite":false
   },
   {
     "output":"/pxbrmods/br/com/pixelmonbrasil/MapsOptimization/1.0/MapsOptimization-1.0.jar",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/mods/optional/MapsOptimization-1.0.jar",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/optional/MapsOptimization-1.0.jar",
     "overwrite":false
   },
   {
     "output":"/config/fancymenu/customizablemenus.txt",
-    "link":"https://api.pixelmonbrasil.com.br/v2/pixelmon-brasil/files/config/fancymenu/customizablemenus.txt",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/files/config/fancymenu/customizablemenus.txt",
+    "overwrite":false
+  },
+  {
+    "output":"/mods/modmixinloader.jar",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/required/ModMixinLoader-1.12.2-1.0.4.jar",
+    "overwrite":false
+  },
+  {
+    "output":"/mods/pxbr.jar",
+    "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/required/PixelmonBrasil-Client-1.0.2.jar",
     "overwrite":false
   }
 ]
