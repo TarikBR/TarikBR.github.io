@@ -178,5 +178,10 @@
     "output":"/mods/pxbr.jar",
     "link":"https://api.pixelmonbrasil.com/v2/pixelmon-brasil/mods/required/PixelmonBrasil-Client-1.0.2.jar",
     "overwrite":false
+  },
+  {
+    "output":"/mods/pxmouse.jar",
+    "link":"https://github.com/TarikBR/minecraft-mobile-improvements/releases/download/v1.0/pxmouse-1.0.0.jar",
+    "overwrite":false
   }
 ]
